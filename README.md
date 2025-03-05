@@ -5,4 +5,5 @@ Hello! Welcome to open-source place where You can find 3D models prepared by me 
 All models are in .STL format, all exported in milimeters. <br/>
 Models were prepared for printing on MJF, SLS and SLA technology. FDM is not recmmended.  <br/>
 You can edit and print models for own purpose. Strictly prohibited is commercial use. Models are watermarked in few ways.  <br/>
+You can support me here: https://buycoffee.to/south-dtsn
 Made in Poland! :) 
